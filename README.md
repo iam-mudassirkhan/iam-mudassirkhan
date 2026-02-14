@@ -30,7 +30,7 @@
 - Proper lifecycle handling
 - Kotlin + Clean Architecture
 
-### 🛒 E-commerce App
+### Wallpaper App
 - REST API integration
 - MVVM architecture
 - Room + Retrofit
