@@ -3,7 +3,7 @@
 
 ## 👨‍💻 About Me
 
-- 📱 Android Developer with 2+ years of experience
+- 📱 Android Developer with 3 years of experience
 - 💡 Strong in Kotlin, MVVM, Coroutines, REST APIs
 - 🚀 Passionate about building scalable and clean architecture apps
 - 📍 Based in Pakistan
@@ -14,12 +14,13 @@
 - Java
 - Jetpack Compose
 - XML UI
-- MVVM Architecture
-- Coroutines
-- Retrofit
-- Room Database
+- MVVM & MVP Architecture
+- Kotlin Coroutines
+- Flow
+- REST APIs & Retrofit
+- Room Database, Data Store & Shared Preferences
 - Firebase
-- Git & GitHub
+- Git, GitHub & Git Lab
 
 
 
