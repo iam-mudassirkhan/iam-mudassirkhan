@@ -157,7 +157,6 @@ Experience building applications that integrate AI-powered features and APIs to 
 
 * 💼 LinkedIn: [linkedin.com/in/iam-mudassirkhan](https://www.linkedin.com/in/iam-mudassirkhan/)
 * 📧 Email: [mudassir144k@gmail.com](mailto:mudassir144k@gmail.com)
-* 💻 GitHub: [github.com/iam-mudassirkhan](https://github.com/iam-mudassirkhan)
 
 ---
 
