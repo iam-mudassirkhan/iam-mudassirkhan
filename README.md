@@ -1,66 +1,170 @@
 <h1 align="center">Hi 👋, I'm Mudassir Khan</h1>
-<h3 align="center">Android Developer | Kotlin | Jetpack Compose | MVVM</h3>
+
+<h3 align="center">Android Developer | Kotlin | Jetpack Compose | Firebase | AI</h3>
+
+<p align="center">
+  <a href="https://github.com/iam-mudassirkhan">
+    <img src="https://img.shields.io/github/followers/iam-mudassirkhan?label=Followers&style=flat" alt="GitHub Followers" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=iam-mudassirkhan&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+</p>
+
+---
 
 ## 👨‍💻 About Me
 
-- 📱 Android Developer with 3 years of experience
-- 💡 Strong in Kotlin, MVVM, Coroutines, REST APIs
-- 🚀 Passionate about building scalable and clean architecture apps
-- 📍 Based in Pakistan
+I'm an **Android Developer with 3+ years of experience** building modern, scalable, and user-focused Android applications.
+
+* 📱 Building Android apps with **Kotlin & Jetpack Compose**
+* 🏗️ Experienced with **MVVM, Clean Architecture & SOLID principles**
+* ⚡ Working with **Coroutines, Flow, Retrofit, Room & DataStore**
+* 🔥 Using **Firebase** for analytics, crash reporting, remote configuration and backend services
+* 🤖 Exploring and integrating **AI capabilities into mobile applications**
+* 🧠 Using modern **AI-assisted development tools** to improve development speed and code quality
+* 🚀 Passionate about building products that are clean, scalable and production-ready
+* 📍 Islamabad, Pakistan
+
+---
 
 ## 🛠️ Tech Stack
 
-- Kotlin
-- Java
-- Jetpack Compose
-- XML UI
-- MVVM & MVP Architecture
-- Kotlin Coroutines
-- Flow
-- REST APIs & Retrofit
-- Room Database, Data Store & Shared Preferences
-- Firebase
-- Git, GitHub & Git Lab
+### 📱 Android Development
 
+* Kotlin
+* Java
+* Android SDK
+* Jetpack Compose
+* XML / Material Design
+* Navigation Component
+* ViewModel
+* Lifecycle
 
+### 🏗️ Architecture & Development
+
+* MVVM
+* Clean Architecture
+* SOLID Principles
+* Dependency Injection
+* Hilt
+* Kotlin Coroutines
+* Flow
+
+### 🌐 Networking & Data
+
+* Retrofit
+* OkHttp
+* REST APIs
+* Room Database
+* DataStore
+* SharedPreferences
+
+### ☁️ Firebase & Google Technologies
+
+* Firebase Analytics
+* Firebase Crashlytics
+* Firebase Remote Config
+* Firebase ML Kit
+* Google Play Services
+
+### 🤖 AI & Machine Learning
+
+* Generative AI
+* Gemini / AI APIs
+* ML Kit
+* TensorFlow Lite
+* AI-assisted development
+
+### 🔧 Tools
+
+* Android Studio
+* Git
+* GitHub
+* GitLab
+* Postman
+* Figma
+* Cursor
+* Claude
+
+---
 
 ## 🚀 Featured Projects
 
-### 📱 Ad Integration Demo
-- Banner, Interstitial & Rewarded Ads
-- Proper lifecycle handling
-- Kotlin + Clean Architecture
+### 🎵 Audio Trimmer
 
-### Wallpaper App
-- REST API integration
-- MVVM architecture
-- Room + Retrofit
+Modern audio editing application built with **Jetpack Compose**, focusing on a clean UI and modern Android development practices.
 
-### 📊 Task Manager App
-- Local database
-- Clean UI with Compose
+**Tech:** Kotlin • Jetpack Compose • Android SDK
 
+---
 
+### 🐶 Cat & Dog Breed Recognizer
 
+Machine-learning powered Android application that identifies cat and dog breeds from images.
+
+**Tech:** Kotlin • TensorFlow Lite • Machine Learning • Android
+
+---
+
+### 📋 Task Manager
+
+A productivity application built with modern Android architecture and local data persistence.
+
+**Tech:** Kotlin • Jetpack Compose • Room • MVVM
+
+---
+
+### 🖼️ Wallpaper App
+
+Android wallpaper application with API integration and local data management.
+
+**Tech:** Kotlin • Retrofit • Room • MVVM
+
+---
+
+### 🤖 AI / Medical Applications
+
+Experience building applications that integrate AI-powered features and APIs to provide intelligent, user-focused experiences.
+
+**Tech:** Kotlin • Android • APIs • AI
+
+---
 
 ## 📊 GitHub Stats
 
-![Mudassir's GitHub stats](https://github-readme-stats.vercel.app/api?username=iam-mudassirkhan&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iam-mudassirkhan&show_icons=true&hide_border=true" alt="Mudassir's GitHub Stats" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-mudassirkhan&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-mudassirkhan&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
 
+---
 
+## 🎯 Currently Exploring
+
+* 🤖 AI-powered Android applications
+* ✨ Generative AI & Gemini
+* 📱 Advanced Jetpack Compose
+* 🏗️ Modern Android Architecture
+* ☁️ Firebase & Google Cloud
+* 🧠 On-device Machine Learning
+* 🚀 Building and shipping production-ready mobile products
+
+---
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/iam-mudassirkhan/
-- Email: mudassir144k@gmail.com
+* 💼 LinkedIn: [linkedin.com/in/iam-mudassirkhan](https://www.linkedin.com/in/iam-mudassirkhan/)
+* 📧 Email: [mudassir144k@gmail.com](mailto:mudassir144k@gmail.com)
+* 💻 GitHub: [github.com/iam-mudassirkhan](https://github.com/iam-mudassirkhan)
 
+---
 
-![Android](https://img.shields.io/badge/Android-Developer-green)
-![Kotlin](https://img.shields.io/badge/Kotlin-Expert-blue)
-![Compose](https://img.shields.io/badge/Jetpack%20Compose-UI-orange)
-
-
-
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Android-Developer-3DDC84?logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-Developer-7F52FF?logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-Developer-4285F4?logo=jetpackcompose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-Developer-FFCA28?logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/AI-Developer-8E75B2?logo=google&logoColor=white" />
+</p>
