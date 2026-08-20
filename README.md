@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an **Android Developer with 3+ years of experience** building modern, scalable, and user-focused Android applications.
+I'm an **Android Developer with 2+ years of experience** building modern, scalable, and user-focused Android applications.
 
 * 📱 Building Android apps with **Kotlin & Jetpack Compose**
 * 🏗️ Experienced with **MVVM, Clean Architecture & SOLID principles**
