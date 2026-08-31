@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mudassir Khan</h1>
 
-<h3 align="center">Android Developer | Kotlin | Jetpack Compose | Firebase | AI</h3>
+<h3 align="center">Android Developer | Kotlin | Java | Jetpack Compose | Firebase | AI</h3>
 
 <p align="center">
   <a href="https://github.com/iam-mudassirkhan">
